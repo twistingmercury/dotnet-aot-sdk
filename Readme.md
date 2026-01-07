@@ -51,7 +51,7 @@ make build
 Or directly with Docker:
 
 ```bash
-docker build -t dotnet-aot-sdk:10.0-alpine .
+docker build -t dotnet-aot-sdk:10.0.0-alpine .
 ```
 
 ### Versioning
